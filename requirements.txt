@@ -1,3 +1,4 @@
+# for finetunning
 numpy>=1.23.1
 soundfile>=0.12.1
 librosa>=0.10.0
@@ -18,3 +19,6 @@ uvicorn>=0.21.1
 fastapi>=0.95.1
 starlette>=0.26.1
 tensorboardX>=2.2
+# for API
+flask
+werkzeug
